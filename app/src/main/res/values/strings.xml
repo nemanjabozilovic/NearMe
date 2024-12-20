@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearMe</string>
+    <string name="google_api_key">API_KEY</string>
+    <string name="search_button_text">Search</string>
+</resources>
